@@ -13,8 +13,8 @@ The overall goal is to learn git and github by practice.
 ## Favourites
 
 The character is special:
-- he loves chocolate cookies.
-- he likes gaming
-- he likes watching youtube
+* he loves chocolate cookies.
+* he likes gaming
+* he likes watching youtube
 
 
