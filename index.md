@@ -17,4 +17,8 @@ The character is special:
 * he likes gaming
 * he likes watching youtube
 
+The chacter says:
+
+> I like youtube
+> I like gaming
 
